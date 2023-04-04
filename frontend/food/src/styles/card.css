@@ -1,0 +1,35 @@
+
+
+.card{
+    width: 18rem;
+}
+
+/* .card:hover{
+    height: 400px;
+    width: 400px;
+} */
+
+.custom-select{
+    display: flex;
+    width: auto;
+    
+}
+
+
+
+.select{
+    background-color:rgb(230, 136, 4);
+    width: 4.7rem;
+}
+
+.btn{
+  margin-left: 1rem;
+
+}
+
+.price{
+    margin-top: 0.5rem;
+    color: rgb(92, 90, 90);
+    
+}
+

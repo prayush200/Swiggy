@@ -1,0 +1,27 @@
+
+#signupdiv{
+    padding-top: 8rem;
+}
+
+form{
+    display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+    
+  
+
+
+  
+    
+}
+
+.btn-primary{
+    background-color: blue;
+}
+
+.btn-danger{
+    background-color: red;
+}
