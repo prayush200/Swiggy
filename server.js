@@ -21,7 +21,7 @@ app.listen(process.env.PORT,()=>{
 })
 
 app.get('/',function(req,res){
-    res.sendFile(path.join(__dirname,'../frontend/food/build/index.html'))
+    res.sendFile(path.join(__dirname,'./frontend/food/build/index.html'))
 })
 
 app.get('/new',(req,res)=>{
