@@ -14,7 +14,7 @@ const path=require('path')
  // prayushfooddeliveryapp.netlify.app
 
 app.use((req,res,next)=>{
-    res.setHeader("Access-control-Allow-Origin","http://localhost:3000");
+    res.setHeader("Access-control-Allow-Origin","https://prayushfooddeliveryapp.netlify.app");
     res.header(
         "Access-Control-Allow-Headers",
         "Origin, X-requested-With, Content-Type, Accept"
